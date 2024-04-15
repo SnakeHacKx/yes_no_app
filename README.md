@@ -1,16 +1,9 @@
-# yes_no_app
+# Yes-No-Maybe App
 
-A new Flutter project.
+Aplicación de Flutter la cual simula un chat. Se debe terminar el mensaje con ? para que una API responda Sí, No o Quizás seguido de un GIF.
 
-## Getting Started
+## Dev
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone repository.
+2. Run `flutter pub get` to get the necessary packages to run the project.
+3. Run the project (F5 in VS Code).
